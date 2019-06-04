@@ -31,3 +31,10 @@ public abstract class Carta extends Button{
 // Carta especial: 1 ponto para quem faz o match e retira um 1 ponto do adversario
 // Carta aleatório: o número de pontos pode ser sorteado (0, 1 ou 2)
 // Carta com ordem: abrindo na ordem certa vale 2 pontos, senão 1 ponto
+
+/*
+ *  1- Carta esquecida: Toda carta começa com 3 pontos, cada ver que revelada (sem o seu par) a carta perde 1 ponto;
+ *
+ *  2- Carta da sorte: O adversário perde o turno.
+ */
+
